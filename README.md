@@ -237,7 +237,7 @@ brew install --cask deck
 
 当前仅部分源码公开，尚不支持完整从源码自行构建，请先使用发布的 `.dmg`。
 
-### 未签名/无付费账号安装指引（macOS 14+）
+### 安装指引（macOS 14+）
 
 1) 下载：从 Releases 获取最新 `.dmg`。  
 2) 安装：打开 DMG，将 `Deck.app` 拖到左侧或窗口内的 `Applications`。  
@@ -252,7 +252,7 @@ brew install --cask deck
 7) 卸载：退出 Deck，删除 `Applications/Deck.app`。如需清空数据，删除 `~/Library/Containers/com.yuzeguitar.Deck`（会移除历史和设置，谨慎操作）。
 
 #### 常见问答（未签名包）
-- 为什么会提示“无法验证开发者/文件已损坏”？未签名未公证，按上面的“仍要打开”/xattr 处理即可。  
+- 为什么会提示“无法验证开发者/文件已损坏”？按上面的“仍要打开”/xattr 处理即可。  
 - 是否安全？应用本地运行，历史加密存储（CryptoKit AES-GCM + Keychain，Touch ID 解锁）。只从官方 Releases 下载。  
 - Intel 能用吗？可以，二进制为通用架构（arm64 + x86_64）。  
 - 需要联网吗？核心功能本地运行；局域网分享需局域网，不依赖云。  
