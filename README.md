@@ -1,8 +1,12 @@
-<p align="center">
-  <span style="font-size: 48px; font-weight: bold;">DE</span>
-  <img src="photos/deck_1024x1024.png" alt="Deck Logo" width="64" height="64" style="vertical-align: middle;">
-  <span style="font-size: 48px; font-weight: bold;">CK</span>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><h1>DE</h1></td>
+      <td><img src="photos/deck_1024x1024.png" alt="Deck Logo" width="80" height="80"></td>
+      <td><h1>CK</h1></td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="photos/DeckShow.png" alt="Deck Show" width="720">
